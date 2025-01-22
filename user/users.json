@@ -1,0 +1,41 @@
+[
+    {
+        "prenom": "Ava",
+        "nom": "Taylor",
+        "email": "ava.taylor@exemple.com",
+        "mot_de_passe": "Hm3#Iqi(%N",
+        "date_naissance": "27/05/1992",
+        "sexe": "feminin",
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": true,
+        "gout_prefere": "Speculoos",
+        "forme_favorite": "Boule",
+        "consommation_pour_qui": "Les deux"
+    },
+    {
+        "prenom": "Sophia",
+        "nom": "Harris",
+        "email": "sophia.harris@exemple.com",
+        "mot_de_passe": "t9Srz!P!ky",
+        "date_naissance": "15/04/1993",
+        "sexe": "feminin",
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": true,
+        "gout_prefere": "Sucree",
+        "forme_favorite": "Petale",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "prenom": "Noah",
+        "nom": "Taylor",
+        "email": "noah.taylor@exemple.com",
+        "mot_de_passe": "mT(5mt!Q3K",
+        "date_naissance": "23/11/2007",
+        "sexe": "masculin",
+        "type_consommation": "bio",
+        "souhaitez_cereales_originales": true,
+        "gout_prefere": "Chocolat",
+        "forme_favorite": "Donut",
+        "consommation_pour_qui": "Consommation personnelle"
+    }
+]

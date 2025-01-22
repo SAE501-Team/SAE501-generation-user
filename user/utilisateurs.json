@@ -1,0 +1,902 @@
+[
+    {
+        "sexe": "f\u00e9minin",
+        "age": 108,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Sucr\u00e9e",
+        "forme_favorite": "\u00c9toile",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "masculin",
+        "age": 23,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Nature",
+        "forme_favorite": "Boule",
+        "consommation_pour_qui": "Les deux"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 42,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Miel",
+        "forme_favorite": "Triangle",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 47,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Chocolat",
+        "forme_favorite": "Donut",
+        "consommation_pour_qui": "Les deux"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 27,
+        "type_consommation": "bio",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Miel",
+        "forme_favorite": "Cube",
+        "consommation_pour_qui": "Consommation personnelle"
+    },
+    {
+        "sexe": "masculin",
+        "age": 27,
+        "type_consommation": "bio",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Chocolat",
+        "forme_favorite": "Triangle",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "masculin",
+        "age": 34,
+        "type_consommation": "bio",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Miel",
+        "forme_favorite": "Donut",
+        "consommation_pour_qui": "Consommation personnelle"
+    },
+    {
+        "sexe": "masculin",
+        "age": 33,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Chocolat",
+        "forme_favorite": "Donut",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "masculin",
+        "age": 35,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Chocolat",
+        "forme_favorite": "P\u00e9tale",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "masculin",
+        "age": 16,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Miel",
+        "forme_favorite": "Donut",
+        "consommation_pour_qui": "Consommation personnelle"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 40,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Miel",
+        "forme_favorite": "Cube",
+        "consommation_pour_qui": "Consommation personnelle"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 16,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Caramel",
+        "forme_favorite": "Cube",
+        "consommation_pour_qui": "Consommation personnelle"
+    },
+    {
+        "sexe": "masculin",
+        "age": 46,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Sp\u00e9culoos",
+        "forme_favorite": "Triangle",
+        "consommation_pour_qui": "Les deux"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 27,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Chocolat",
+        "forme_favorite": "P\u00e9tale",
+        "consommation_pour_qui": "Consommation personnelle"
+    },
+    {
+        "sexe": "masculin",
+        "age": 26,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Caramel",
+        "forme_favorite": "P\u00e9tale",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 28,
+        "type_consommation": "bio",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Fraise",
+        "forme_favorite": "Cube",
+        "consommation_pour_qui": "Les deux"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 37,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Miel",
+        "forme_favorite": "\u00c9toile",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 20,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Nature",
+        "forme_favorite": "\u00c9toile",
+        "consommation_pour_qui": "Les deux"
+    },
+    {
+        "sexe": "masculin",
+        "age": 26,
+        "type_consommation": "bio",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Fraise",
+        "forme_favorite": "\u00c9toile",
+        "consommation_pour_qui": "Les deux"
+    },
+    {
+        "sexe": "masculin",
+        "age": 59,
+        "type_consommation": "bio",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Nature",
+        "forme_favorite": "Triangle",
+        "consommation_pour_qui": "Consommation personnelle"
+    },
+    {
+        "sexe": "masculin",
+        "age": 21,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Chocolat",
+        "forme_favorite": "P\u00e9tale",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "masculin",
+        "age": 20,
+        "type_consommation": "bio",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Chocolat",
+        "forme_favorite": "Triangle",
+        "consommation_pour_qui": "Consommation personnelle"
+    },
+    {
+        "sexe": "masculin",
+        "age": 31,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Sp\u00e9culoos",
+        "forme_favorite": "Triangle",
+        "consommation_pour_qui": "Consommation personnelle"
+    },
+    {
+        "sexe": "masculin",
+        "age": 19,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Sucr\u00e9e",
+        "forme_favorite": "\u00c9toile",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 32,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Miel",
+        "forme_favorite": "Boule",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 91,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Sucr\u00e9e",
+        "forme_favorite": "\u00c9toile",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "masculin",
+        "age": 25,
+        "type_consommation": "bio",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Sucr\u00e9e",
+        "forme_favorite": "Donut",
+        "consommation_pour_qui": "Consommation personnelle"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 89,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Nature",
+        "forme_favorite": "P\u00e9tale",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "masculin",
+        "age": 32,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Miel",
+        "forme_favorite": "Cube",
+        "consommation_pour_qui": "Les deux"
+    },
+    {
+        "sexe": "masculin",
+        "age": 50,
+        "type_consommation": "bio",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Chocolat",
+        "forme_favorite": "Triangle",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 19,
+        "type_consommation": "bio",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Miel",
+        "forme_favorite": "Triangle",
+        "consommation_pour_qui": "Consommation personnelle"
+    },
+    {
+        "sexe": "masculin",
+        "age": 64,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Nature",
+        "forme_favorite": "P\u00e9tale",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 29,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Sucr\u00e9e",
+        "forme_favorite": "Cube",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "masculin",
+        "age": 43,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Nature",
+        "forme_favorite": "Boule",
+        "consommation_pour_qui": "Les deux"
+    },
+    {
+        "sexe": "masculin",
+        "age": 45,
+        "type_consommation": "bio",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Miel",
+        "forme_favorite": "Cube",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 40,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Miel",
+        "forme_favorite": "\u00c9toile",
+        "consommation_pour_qui": "Les deux"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 27,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Chocolat",
+        "forme_favorite": "Boule",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 37,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Sucr\u00e9e",
+        "forme_favorite": "Cube",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "masculin",
+        "age": 69,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Miel",
+        "forme_favorite": "P\u00e9tale",
+        "consommation_pour_qui": "Les deux"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 17,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Caramel",
+        "forme_favorite": "\u00c9toile",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 20,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Sucr\u00e9e",
+        "forme_favorite": "Cube",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "masculin",
+        "age": 30,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Miel",
+        "forme_favorite": "P\u00e9tale",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "masculin",
+        "age": 28,
+        "type_consommation": "bio",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Nature",
+        "forme_favorite": "\u00c9toile",
+        "consommation_pour_qui": "Consommation personnelle"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 33,
+        "type_consommation": "bio",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Sucr\u00e9e",
+        "forme_favorite": "Cube",
+        "consommation_pour_qui": "Consommation personnelle"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 26,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Sp\u00e9culoos",
+        "forme_favorite": "Boule",
+        "consommation_pour_qui": "Consommation personnelle"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 50,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Miel",
+        "forme_favorite": "Boule",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "masculin",
+        "age": 17,
+        "type_consommation": "bio",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Chocolat",
+        "forme_favorite": "Donut",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "masculin",
+        "age": 42,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Chocolat",
+        "forme_favorite": "Donut",
+        "consommation_pour_qui": "Les deux"
+    },
+    {
+        "sexe": "masculin",
+        "age": 43,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Miel",
+        "forme_favorite": "Triangle",
+        "consommation_pour_qui": "Consommation personnelle"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 76,
+        "type_consommation": "bio",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Miel",
+        "forme_favorite": "Donut",
+        "consommation_pour_qui": "Consommation personnelle"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 42,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Fraise",
+        "forme_favorite": "Donut",
+        "consommation_pour_qui": "Consommation personnelle"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 16,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Nature",
+        "forme_favorite": "P\u00e9tale",
+        "consommation_pour_qui": "Consommation personnelle"
+    },
+    {
+        "sexe": "masculin",
+        "age": 44,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Sp\u00e9culoos",
+        "forme_favorite": "Cube",
+        "consommation_pour_qui": "Consommation personnelle"
+    },
+    {
+        "sexe": "masculin",
+        "age": 33,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Miel",
+        "forme_favorite": "Donut",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 28,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Chocolat",
+        "forme_favorite": "Donut",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "masculin",
+        "age": 65,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Sucr\u00e9e",
+        "forme_favorite": "Boule",
+        "consommation_pour_qui": "Les deux"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 49,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Miel",
+        "forme_favorite": "\u00c9toile",
+        "consommation_pour_qui": "Consommation personnelle"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 17,
+        "type_consommation": "bio",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Caramel",
+        "forme_favorite": "Triangle",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "masculin",
+        "age": 50,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Nature",
+        "forme_favorite": "Triangle",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 101,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Caramel",
+        "forme_favorite": "\u00c9toile",
+        "consommation_pour_qui": "Les deux"
+    },
+    {
+        "sexe": "masculin",
+        "age": 80,
+        "type_consommation": "bio",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Miel",
+        "forme_favorite": "Triangle",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "masculin",
+        "age": 20,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Chocolat",
+        "forme_favorite": "Donut",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 19,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Chocolat",
+        "forme_favorite": "P\u00e9tale",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 29,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Caramel",
+        "forme_favorite": "Cube",
+        "consommation_pour_qui": "Les deux"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 49,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Chocolat",
+        "forme_favorite": "Cube",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 17,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Miel",
+        "forme_favorite": "Cube",
+        "consommation_pour_qui": "Les deux"
+    },
+    {
+        "sexe": "masculin",
+        "age": 35,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Sucr\u00e9e",
+        "forme_favorite": "P\u00e9tale",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "masculin",
+        "age": 17,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Sucr\u00e9e",
+        "forme_favorite": "\u00c9toile",
+        "consommation_pour_qui": "Consommation personnelle"
+    },
+    {
+        "sexe": "masculin",
+        "age": 71,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Nature",
+        "forme_favorite": "Cube",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 65,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Miel",
+        "forme_favorite": "Boule",
+        "consommation_pour_qui": "Consommation personnelle"
+    },
+    {
+        "sexe": "masculin",
+        "age": 101,
+        "type_consommation": "bio",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Miel",
+        "forme_favorite": "P\u00e9tale",
+        "consommation_pour_qui": "Les deux"
+    },
+    {
+        "sexe": "masculin",
+        "age": 22,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Caramel",
+        "forme_favorite": "\u00c9toile",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 16,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Nature",
+        "forme_favorite": "Boule",
+        "consommation_pour_qui": "Les deux"
+    },
+    {
+        "sexe": "masculin",
+        "age": 17,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Fraise",
+        "forme_favorite": "Donut",
+        "consommation_pour_qui": "Consommation personnelle"
+    },
+    {
+        "sexe": "masculin",
+        "age": 66,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Chocolat",
+        "forme_favorite": "Cube",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 40,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Chocolat",
+        "forme_favorite": "\u00c9toile",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 29,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Miel",
+        "forme_favorite": "P\u00e9tale",
+        "consommation_pour_qui": "Consommation personnelle"
+    },
+    {
+        "sexe": "masculin",
+        "age": 61,
+        "type_consommation": "bio",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Miel",
+        "forme_favorite": "\u00c9toile",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 45,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Nature",
+        "forme_favorite": "Donut",
+        "consommation_pour_qui": "Les deux"
+    },
+    {
+        "sexe": "masculin",
+        "age": 88,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Nature",
+        "forme_favorite": "P\u00e9tale",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 34,
+        "type_consommation": "bio",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Nature",
+        "forme_favorite": "Donut",
+        "consommation_pour_qui": "Les deux"
+    },
+    {
+        "sexe": "masculin",
+        "age": 17,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Sucr\u00e9e",
+        "forme_favorite": "Triangle",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "masculin",
+        "age": 64,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Fraise",
+        "forme_favorite": "P\u00e9tale",
+        "consommation_pour_qui": "Les deux"
+    },
+    {
+        "sexe": "masculin",
+        "age": 25,
+        "type_consommation": "bio",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Miel",
+        "forme_favorite": "\u00c9toile",
+        "consommation_pour_qui": "Les deux"
+    },
+    {
+        "sexe": "masculin",
+        "age": 101,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Chocolat",
+        "forme_favorite": "Cube",
+        "consommation_pour_qui": "Consommation personnelle"
+    },
+    {
+        "sexe": "masculin",
+        "age": 18,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Miel",
+        "forme_favorite": "Cube",
+        "consommation_pour_qui": "Consommation personnelle"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 84,
+        "type_consommation": "bio",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Nature",
+        "forme_favorite": "Donut",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "masculin",
+        "age": 18,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Caramel",
+        "forme_favorite": "Triangle",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 21,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Sucr\u00e9e",
+        "forme_favorite": "Cube",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "masculin",
+        "age": 17,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Sucr\u00e9e",
+        "forme_favorite": "Cube",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 20,
+        "type_consommation": "bio",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Sp\u00e9culoos",
+        "forme_favorite": "Triangle",
+        "consommation_pour_qui": "Les deux"
+    },
+    {
+        "sexe": "masculin",
+        "age": 22,
+        "type_consommation": "bio",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Chocolat",
+        "forme_favorite": "Triangle",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 40,
+        "type_consommation": "gourmand",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Sp\u00e9culoos",
+        "forme_favorite": "Donut",
+        "consommation_pour_qui": "Consommation personnelle"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 25,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Sp\u00e9culoos",
+        "forme_favorite": "Cube",
+        "consommation_pour_qui": "Les deux"
+    },
+    {
+        "sexe": "masculin",
+        "age": 35,
+        "type_consommation": "bio",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Sucr\u00e9e",
+        "forme_favorite": "Triangle",
+        "consommation_pour_qui": "Consommation personnelle"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 49,
+        "type_consommation": "bio",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Sp\u00e9culoos",
+        "forme_favorite": "Boule",
+        "consommation_pour_qui": "Consommation personnelle"
+    },
+    {
+        "sexe": "masculin",
+        "age": 16,
+        "type_consommation": "bio",
+        "souhaitez_cereales_originales": "non",
+        "gout_prefer\u00e9": "Caramel",
+        "forme_favorite": "\u00c9toile",
+        "consommation_pour_qui": "Consommation personnelle"
+    },
+    {
+        "sexe": "f\u00e9minin",
+        "age": 30,
+        "type_consommation": "bio",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Sucr\u00e9e",
+        "forme_favorite": "Triangle",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "masculin",
+        "age": 80,
+        "type_consommation": "sportif",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Sp\u00e9culoos",
+        "forme_favorite": "Cube",
+        "consommation_pour_qui": "Pour mes enfants"
+    },
+    {
+        "sexe": "masculin",
+        "age": 26,
+        "type_consommation": "bio",
+        "souhaitez_cereales_originales": "oui",
+        "gout_prefer\u00e9": "Chocolat",
+        "forme_favorite": "Donut",
+        "consommation_pour_qui": "Pour mes enfants"
+    }
+]
